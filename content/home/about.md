@@ -1,30 +1,21 @@
-+++
-# About/Biography widget.
-widget = "about"
-active = true
-date = 2016-04-20T00:00:00
+---
+# An instance of the About widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: about
 
-# Order that this section will appear in.
-weight = 5
+# Activate this widget? true/false
+active: true
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Automação",
-    "Linguística",
-    "Linux",
-    "Machine Learning",
-    "Opensource"
-  ]
+# This file represents a page section.
+headless: true
 
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "Ciência da Computação"
-  institution = "Universidade Presbiteriana Mackenzie"
-  year = 2014
- 
-+++
+# Order that this section appears on the page.
+weight: 20
 
-# Sobre mim
+title: Biografia
 
-Além de usuário, sou um desenvolvedor de software, entusiasta de todo projeto original, da facilidade e da simplicidade. Refletir essas qualidades em todo software é meu objetivo.
+# Choose the user profile to display
+# This should be the username (folder name) of a profile in your `content/authors/` folder.
+# See https://wowchemy.com/docs/get-started/#introduce-yourself
+author: admin
+---

@@ -33,6 +33,3 @@ preview = true
 
 - [Terence McKenna - Searching For Patterns](https://www.youtube.com/watch?v=QJBOMwsGsYs)
 <img src="https://img.youtube.com/vi/QJBOMwsGsYs/0.jpg" alt="Darwin vs Torquemada" style="width:200px;"/>
-
-- [Terence McKenna - Searching For Patterns](https://www.youtube.com/watch?v=QJBOMwsGsYs)
-<img src="https://img.youtube.com/vi/QJBOMwsGsYs/0.jpg" alt="Darwin vs Torquemada" style="width:200px;"/>
